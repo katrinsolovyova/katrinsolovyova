@@ -1,5 +1,5 @@
 ### Hi Katrin 👋
-
+GOOD DAY!
 <!--
 **katrinsolovyova/katrinsolovyova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200" height="200"/>
 </div>
