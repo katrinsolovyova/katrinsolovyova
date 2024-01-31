@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   
 </div>
 :woman_technologist: About Me :
+
 Я Катя <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербуга.
 
 - :telescope: Я учусь на специальность:Информацонные системы и программиррование
