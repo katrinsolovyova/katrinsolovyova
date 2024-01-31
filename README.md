@@ -14,16 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200" height="200"/>
-</div>
-:woman_technologist:Мои социальные сети   :
-<div id="badges">
-
-  <a href="your-telegram-URL">
-    <img src= Badge"/>
-  </a>
-  
  </div align="center">
  :woman_technologist: About Me :
 
