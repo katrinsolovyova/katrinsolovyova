@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/pudgypenguins-work-computer-working-WIQ0N0OUvei1OW1h9Z">via GIPHY</a></p>" width="100"/>
+</div>
  </div align="center">
  :woman_technologist: About Me :
 
