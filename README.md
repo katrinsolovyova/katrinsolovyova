@@ -24,10 +24,10 @@ Here are some ideas to get you started:
     <img src= Badge"/>
   </a>
   
-</div>
-:woman_technologist: About Me :
+ </div align="center">
+ :woman_technologist: About Me :
 
-Я Катя <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербуга.
+ Я Катя <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербуга.
 
 - :telescope: Я учусь на специальность:Информацонные системы и программиррование
 
